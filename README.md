@@ -18,6 +18,7 @@ To complete today's workshop you need the things below.
 We are running through setting up P4wnP1 A.L.O.A., details can be found here [https://github.com/mame82/P4wnP1_aloa/blob/master/README.md]
 
 Because we are all running through this at the same time we will do it different.
+(We aren't using the wifi to connect first, but USB/Ethernet Connection)
 
 ## Useful Documentation
 * P4wnP1 Wiki - [https://p4wnp1.readthedocs.io/en/latest/]
