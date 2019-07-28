@@ -17,7 +17,7 @@ To complete today's workshop you need the things below.
 ## Official Instructions for this project
 We are running through setting up P4wnP1 A.L.O.A., details can be found here [https://github.com/mame82/P4wnP1_aloa/blob/master/README.md]
 
-Because we are all running through this at the same time we will do it different.
+Because we are all running through this at the same time we will do it different to the official instructions.
 (We aren't using the wifi to connect first, but USB/Ethernet Connection)
 
 ## Useful Documentation
@@ -36,7 +36,7 @@ Because we are all running through this at the same time we will do it different
 1. Boot Raspberry Pi Zero W with new Image
 1. Connect using USB/Ethernet
 1. Configure settings via Web Console 
-   1. Let's make some things unique and less obvious to be an attack tool.
-1. Connect using Wifi
-1. How to load a script and execute it remotely.
-1. What else can you do with this thing?
+   1. Make it connect as a wireless client to the WIFI
+   1. Make it connect to a remote SSH server automatically
+   1. Connect to RPI0W it using SSH through remote SSH server.
+   1. Profit?
