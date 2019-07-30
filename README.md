@@ -9,6 +9,7 @@ To complete today's workshop you need the things below.
 * MicroSD Card reader
 * Micro USB Cable with data
 * Computer (Laptop for the workshop)
+* You can buy the little parts from Core Electronics - [https://coreelec.io/kitbsideperth]
 
 ### Software - I will have this available for you
 * balenaEtcher to write images to SD [https://www.balena.io/etcher/]
