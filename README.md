@@ -13,6 +13,7 @@ To complete today's workshop you need the things below.
 ### Software - I will have this available for you
 * balenaEtcher to write images to SD [https://www.balena.io/etcher/]
 * P4wnP1_aloa release [https://github.com/mame82/P4wnP1_aloa/releases]
+* SSH Client.  Prefer an embedded into the OS, but at a stretch on Windows, Putty. [https://www.putty.org/]
 
 ## Official Instructions for this project
 We are running through setting up P4wnP1 A.L.O.A., details can be found here [https://github.com/mame82/P4wnP1_aloa/blob/master/README.md]
@@ -40,3 +41,4 @@ Because we are all running through this at the same time we will do it different
    1. Make it connect to a remote SSH server automatically
    1. Connect to RPI0W it using SSH through remote SSH server.
    1. Profit?
+   1. Play with keyboard injection to demonstrate additional capability of RPi0W
