@@ -4,7 +4,7 @@
 sudo su -
 
 #configure the hostname
-sudo echo $hn > /etc/hostname
+sudo echo $1 > /etc/hostname
 hostname -f
 
 #Exit Root

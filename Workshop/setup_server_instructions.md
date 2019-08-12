@@ -2,3 +2,6 @@
 
 
 sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/anothergeorgecoldham/BSides-Perth-Workshop-RPi0W/master/Workshop/provision-server-script.sh)" 
+
+
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/anothergeorgecoldham/BSides-Perth-Workshop-RPi0W/master/Workshop/rename-hostname-script.sh)" 
