@@ -1,7 +1,9 @@
 #!/bin/bash
 
+#User Data entered into the instance details of AWS is run as root.
+
 #update all the things
-sudo apt update -y && sudo apt upgrade -y
+apt update -y && sudo apt upgrade -y
 
 #this is bad security practice but neccessary for this workshop
-sudo cp ~/.ssh/authorized_keys /root/.ssh/authorized_keys
+cp -f /home/ubuntu/.ssh/authorized_keys /root/.ssh/authorized_keys
