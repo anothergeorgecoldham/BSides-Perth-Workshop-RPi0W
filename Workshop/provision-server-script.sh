@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #User Data entered into the instance details of AWS is run as root.
+#Add to template for AWS Instance
 
 #update all the things
 apt update -y && sudo apt upgrade -y
