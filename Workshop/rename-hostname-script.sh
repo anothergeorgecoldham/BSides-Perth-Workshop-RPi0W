@@ -1,5 +1,7 @@
 #! /bin/bash
 
+#THIS DOES NOT WORK
+
 #Make ourselves root
 sudo su -
 
