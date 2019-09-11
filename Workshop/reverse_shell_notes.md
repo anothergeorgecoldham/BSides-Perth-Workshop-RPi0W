@@ -23,3 +23,7 @@ SSH Control Server forwards requests port 8000 to Kali device.
 -- -R 8000:localhost:8000 I think will do it.
 
 Testing required.
+
+Powershell script to automagically download
+(New-Object System.Net.WebClient).DownloadFile('https://curl.haxx.se/windows/dl-7.66.0/curl-7.66.0-win32-mingw.zip', '.\curl-7.66.0-win32-mingw.zip') 
+
